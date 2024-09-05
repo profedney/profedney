@@ -2,7 +2,7 @@ Here's a draft of your GitHub profile README based on the information you provid
 
 ---
 
-# Hello, I'm Edney Rossi 👋
+# Hello, I'm prof. Edney 👋
 
 I'm a **Developer** and **High School Teacher**, passionate about empowering the next generation with the skills to thrive in the digital world. I teach **Information Technology** to high school students, blending theory with practical, real-world applications.
 
