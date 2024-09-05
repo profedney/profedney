@@ -22,3 +22,28 @@ As an educator, I strive to create a learning environment that is accessible, in
 ### 📫 How to Reach Me
 - **Email**: prof.edneyrossi @ gmail.com
 
+---
+
+# Olá, eu sou o prof. Edney 👋
+
+Sou **Desenvolvedor** e **Professor de Ensino Médio**, apaixonado por capacitar a próxima geração com as habilidades necessárias para prosperar no mundo digital. Ensino **Tecnologia da Informação** para estudantes do ensino médio, unindo teoria com aplicações práticas e do mundo real.
+
+### 💻 O que eu faço
+- **Desenvolvedor**: Especializado em **e-commerce**, **desenvolvimento web**, **automação** e **interfaces homem-máquina**. Gosto de criar soluções eficientes e escaláveis para desafios modernos.
+- **Professor**: Ensino **Tecnologia da Informação** com foco em tornar o aprendizado prático e envolvente para os alunos. Acredito no poder da educação para transformar o futuro.
+
+### 🌱 Foco Atual
+Atualmente, estou trabalhando em vários projetos, incluindo:
+- Construção de recursos educacionais em **Python**, **HTML**, **CSS**, **JS** e **Kotlin** para apoiar o aprendizado dos alunos.
+- Desenvolvimento de uma aplicação web para rastreamento de **intenção de voto** usando **PHP** e **MySQL**.
+
+### 🚀 Projetos
+Alguns dos meus principais projetos incluem:
+- **Jogo Visual Novel**: Um jogo narrativo com foco em alquimia, onde os jogadores resolvem quebra-cabeças químicos.
+- **Valvodrive e Plexinabox**: Amplificadores valvulados e pedais de efeito personalizados, criados para músicos.
+
+### 🎓 Filosofia de Ensino
+Como educador, busco criar um ambiente de aprendizado acessível, inclusivo e focado na resolução de problemas reais. Estou sempre em busca de maneiras inovadoras de ensinar conceitos de programação e TI.
+
+### 📫 Como me Contatar
+- **Email**: prof.edneyrossi @ gmail.com
