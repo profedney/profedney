@@ -24,9 +24,5 @@ Some of my key projects include:
 As an educator, I strive to create a learning environment that is accessible, inclusive, and focused on real-world problem-solving. I’m always looking for innovative ways to teach coding and IT concepts.
 
 ### 📫 How to Reach Me
-- **LinkedIn**: [Your LinkedIn profile]
-- **Email**: [Your email address]
+- **Email**: prof.edneyrossi @ gmail.com
 
----
-
-This version provides a clear and professional overview of your role as a developer and educator. Let me know if you'd like to make any adjustments!
