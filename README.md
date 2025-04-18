@@ -1,49 +1,22 @@
-# Hello, I'm prof. Edney 👋
+## 👋 Olá! Eu sou o Edney Rossi
 
-I'm a **Developer** and **High School Teacher**, passionate about empowering the next generation with the skills to thrive in the digital world. I teach **Information Technology** to high school students, blending theory with practical, real-world applications.
+Sou técnico em eletrônica, apaixonado por tecnologia, música e educação prática. Atuei por anos na indústria com automação, programação de PLCs e IHMs, além de trabalhar como técnico de som e iluminador cênico.
 
-### 💻 What I Do
-- **Developer**: I specialize in **e-commerce**, **web development**, **automation**, and **human-machine interfaces**. I enjoy crafting efficient and scalable solutions for modern challenges.
-- **Teacher**: I teach **Information Technology** with a focus on making learning hands-on and engaging for students. I believe in the power of education to transform futures.
-  
-### 🌱 Current Focus
-Currently, I’m working on various projects, including:
-- Building educational resources in **Python**, **HTML**, **CSS**, **JS**, and **Kotlin** to support student learning.
-- Developing a web application for **voting intent** tracking using **PHP** and **MySQL**.
+🎓 Formado pela FATEC em Tecnologia da Informação para Negócios, descobri na docência uma paixão transformadora. Leciono disciplinas como eletrônica, programação, segurança da informação, desenvolvimento web e mobile, sempre buscando formas criativas e práticas de ensinar — porque acredito que **"só se ensina bem aquilo que se aprende ensinando"**.
 
-### 🚀 Projects
-Some of my key projects include:
-- **Visual Novel Game**: A narrative-driven game featuring alchemy, where players solve chemical puzzles.
-- **Valvodrive and Plexinabox**: Custom-built **tube amplifiers** and **effect pedals** designed for musicians.
+🔬 Nas horas vagas, sou maker, pesquisador curioso e criador de projetos DIY, como pedais de guitarra e amplificadores valvulados. Também desenvolvo conteúdos para o projeto [Tube Amps & Pedals DIY](https://tubeamps.com.br), unindo eletrônica vintage, música e educação aberta.
 
-### 🎓 Teaching Philosophy
-As an educator, I strive to create a learning environment that is accessible, inclusive, and focused on real-world problem-solving. I’m always looking for innovative ways to teach coding and IT concepts.
+💻 Agora, estou expandindo minha atuação para o desenvolvimento de software. Busco integrar uma equipe colaborativa onde eu possa contribuir com dedicação, criatividade e aprendizado constante.
 
-### 📫 How to Reach Me
-- **Email**: prof.edneyrossi @ gmail.com
+### 🚀 Áreas de interesse
+- Desenvolvimento Web e Mobile
+- Back-end e APIs
+- Segurança da Informação
+- Automação e IoT (com Arduino e microcontroladores)
+- Projetos open source e colaborativos
 
----
+📫 Estou disponível para integrar uma equipe de desenvolvimento de software. Vamos construir algo incrível juntos?
 
-# Olá, eu sou o prof. Edney 👋
-
-Sou **Desenvolvedor** e **Professor de Ensino Médio**, apaixonado por capacitar a próxima geração com as habilidades necessárias para prosperar no mundo digital. Ensino **Tecnologia da Informação** para estudantes do ensino médio, unindo teoria com aplicações práticas e do mundo real.
-
-### 💻 O que eu faço
-- **Desenvolvedor**: Especializado em **e-commerce**, **desenvolvimento web**, **automação** e **interfaces homem-máquina**. Gosto de criar soluções eficientes e escaláveis para desafios modernos.
-- **Professor**: Ensino **Tecnologia da Informação** com foco em tornar o aprendizado prático e envolvente para os alunos. Acredito no poder da educação para transformar o futuro.
-
-### 🌱 Foco Atual
-Atualmente, estou trabalhando em vários projetos, incluindo:
-- Construção de recursos educacionais em **Python**, **HTML**, **CSS**, **JS** e **Kotlin** para apoiar o aprendizado dos alunos.
-- Desenvolvimento de uma aplicação web para rastreamento de **intenção de voto** usando **PHP** e **MySQL**.
-
-### 🚀 Projetos
-Alguns dos meus principais projetos incluem:
-- **Jogo Visual Novel**: Um jogo narrativo com foco em alquimia, onde os jogadores resolvem quebra-cabeças químicos.
-- **Valvodrive e Plexinabox**: Amplificadores valvulados e pedais de efeito personalizados, criados para músicos.
-
-### 🎓 Filosofia de Ensino
-Como educador, busco criar um ambiente de aprendizado acessível, inclusivo e focado na resolução de problemas reais. Estou sempre em busca de maneiras inovadoras de ensinar conceitos de programação e TI.
 
 ### 📫 Como me Contatar
 - **Email**: prof.edneyrossi @ gmail.com
