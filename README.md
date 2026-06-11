@@ -1,44 +1,161 @@
-# 👋 Olá! Eu sou o Edney Rossi
+# 👋 Olá, eu sou Edney Rossi
 
-Sou um professor, desenvolvedor e maker apaixonado por tecnologia, música e educação prática. Minha trajetória une **informática**, **eletrônica**, **automação**, **desenvolvimento de software** e **ensino criativo** — porque acredito que só se ensina bem aquilo que se aprende ensinando.
+### Educador • Tecnólogo • Maker • Desenvolvedor • Técnico em Eletrônica
 
-🎓 Formado pela **FATEC** em Tecnologia da Informação para Negócios, leciono disciplinas como:
-- Programação (diversas linguagens)
-- Segurança da informação
-- Desenvolvimento web e mobile
-- Eletrônica digital e analógica
-- Projetos integradores envolvendo hardware e software
+Sou professor de Tecnologia da Informação, técnico em eletrônica e desenvolvedor apaixonado por transformar conhecimento em soluções práticas. Minha trajetória profissional integra mais de 30 anos de experiência em tecnologia, eletrônica, automação industrial, áudio profissional, desenvolvimento de software e educação técnica.
 
-🚀 Atualmente estou expandindo minha atuação em **desenvolvimento de software** e projetos open source. Gosto de integrar teoria e prática em tudo que faço, sempre com espírito investigativo e criativo.
-
-🛠️ Também sou técnico em eletrônica, com experiência em:
-- Automação industrial (painéis, CLPs, IHMs)
-- Montagem e manutenção de computadores e redes (Windows/Linux)
-- Projetos DIY com Arduino, microcontroladores e eletrônica analógica
-- Construção de **pedais de guitarra**, **amplificadores valvulados** e dispositivos de áudio no projeto [Tube Amps & Pedals DIY](https://www.youtube.com/@tubeampspedalsdiy)
-
-🎸 Ah, também sou músico: guitarrista, baixista e baterista — porque conhecimento também vibra.
+Acredito que a melhor forma de aprender é construir. Por isso, minha atuação sempre esteve ligada à experimentação, à cultura maker e ao desenvolvimento de projetos que unem teoria e prática.
 
 ---
 
-## 🔍 Áreas de interesse
+## 🎓 Atuação em Educação
 
-- Desenvolvimento Web & Mobile
-- APIs e aplicações back-end
-- Segurança da Informação
-- Automação e IoT
-- Projetos DIY e open source
-- Cultura maker e educação aberta
+Atualmente atuo como professor de Tecnologia da Informação no Ensino Médio Técnico e em cursos profissionalizantes, ministrando disciplinas relacionadas a:
+
+* Programação e desenvolvimento de software
+* Desenvolvimento Web (HTML, CSS, JavaScript)
+* Desenvolvimento Mobile
+* Segurança da Informação
+* Banco de Dados
+* Redes de Computadores
+* Internet das Coisas (IoT)
+* Robótica Educacional
+* Algoritmos e Lógica de Programação
+* Eletrônica Digital e Sistemas Embarcados
+
+Meu foco é desenvolver pensamento crítico, criatividade e autonomia técnica por meio de projetos práticos e interdisciplinares.
 
 ---
 
-## 📫 Vamos conversar?
+## 💻 Desenvolvimento de Software
 
-Estou disponível para integrar uma equipe de desenvolvimento, contribuir com projetos colaborativos ou criar soluções criativas juntos.
+Tenho interesse especial em:
 
-📧 Email: **edneyrossi @ gmail.com**  
-🌐 WebSite: tubeamps.com.br
+* Desenvolvimento Web Full Stack
+* APIs REST
+* JavaScript
+* Python
+* PHP
+* Banco de Dados SQL
+* Aplicações Mobile
+* Integração Hardware + Software
+* Sistemas para Automação Industrial
+* Projetos Open Source
+
+Gosto especialmente de criar soluções que conectem o mundo físico ao digital.
+
+---
+
+## ⚡ Eletrônica e Automação Industrial
+
+Minha formação técnica em eletrônica e experiência profissional me permitiram atuar em:
+
+* Projetos de Automação Industrial
+* Programação de CLPs
+* IHMs e Sistemas Supervisórios
+* Painéis Elétricos Industriais
+* Instrumentação
+* Eletrônica Analógica e Digital
+* Microcontroladores e Arduino
+* Manutenção de Equipamentos Industriais
+* Diagnóstico e Reparos Eletrônicos
+
+---
+
+## 🎸 Tube Amps, Áudio e Música
+
+Uma das minhas maiores paixões é a eletrônica aplicada à música.
+
+Desenvolvo projetos relacionados a:
+
+* Amplificadores Valvulados (Tube Amps)
+* Amplificadores Hi-Fi
+* Pedais de Efeitos para Guitarra
+* Pré-Amplificadores
+* Fontes Lineares e Chaveadas
+* Equipamentos de Áudio Vintage
+* Áudio Profissional para Estúdio e Shows
+
+Também produzo conteúdo técnico através do projeto:
+
+### Tube Amps & FX
+
+Compartilhando conhecimento sobre eletrônica aplicada ao áudio, manutenção, projetos DIY e cultura maker.
+
+---
+
+## 🎭 Arte, Comunicação e Criatividade
+
+Além da tecnologia, tenho forte ligação com as artes.
+
+Sou entusiasta e praticante de:
+
+* Música
+* Composição
+* Guitarra
+* Baixo
+* Bateria
+* Teatro
+* Escrita
+* Humor
+
+Acredito que criatividade e tecnologia são partes inseparáveis do processo de inovação.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Software
+
+* JavaScript
+* Python
+* PHP
+* SQL
+* HTML5
+* CSS3
+* Linux
+* Windows
+
+### Hardware
+
+* Arduino
+* ESP32
+* CLPs
+* Eletrônica Analógica
+* Eletrônica Digital
+* Instrumentação
+* Automação Industrial
+
+### Áudio
+
+* Tube Amplifiers
+* Analog Audio
+* Guitar Effects
+* Audio Electronics
+* Studio Equipment
+
+---
+
+## 🌱 Filosofia
+
+> O conhecimento só se multiplica quando é compartilhado.
+
+Defendo a educação aberta, o aprendizado contínuo, a cultura maker e o desenvolvimento colaborativo. Acredito que tecnologia deve ser acessível, compreensível e útil para melhorar a vida das pessoas.
+
+---
+
+## 🌐 Links
+
 📺 YouTube: https://www.youtube.com/@profedneyrossi
 
+🌍 Website: https://tubeamps.com.br
+
+📂 Portfólio: https://edneyrossi.github.io
+
+📧 Contato: edneyrossi @ gmail.com
+
 ---
-> “O conhecimento só se multiplica quando é compartilhado.”  
+
+Obrigado por visitar meu perfil.
+
+Se você gosta de tecnologia, eletrônica, desenvolvimento de software, automação, áudio ou educação tecnológica, fique à vontade para explorar meus projetos e colaborar.
